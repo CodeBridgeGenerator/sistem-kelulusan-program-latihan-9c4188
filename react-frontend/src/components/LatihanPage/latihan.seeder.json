@@ -1,0 +1,14 @@
+[
+    {
+        "nomborRujukan": "LAT001",
+        "tajuk": "Latihan Pembangunan Web",
+        "kategori": "IT",
+        "status": "Selesai"
+    },
+    {
+        "nomborRujukan": "LAT002",
+        "tajuk": "Latihan Komunikasi Efektif",
+        "kategori": "Komunikasi",
+        "status": "Dalam Proses"
+    }
+]
